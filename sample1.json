@@ -1,0 +1,235 @@
+{
+    "margins": {
+      "left": 2,
+      "right": 2,
+      "bottom": 1,
+      "top": 4
+    },
+    "orientation": "portrait",
+    "page": "a4",
+    "header": {
+      "content": [
+        {
+          "type": "row",
+          "childs": [
+            {
+              "type": "image",
+              "content": "https://img.freepik.com/vetores-gratis/logotipo-elegante-dourado-com-moldura_52683-13462.jpg",
+              "width": 100,
+              "height": 100,
+              "align": "left"
+            },
+            {
+              "type": "column",
+              "childs": [
+                {
+                  "type": "text",
+                  "content": "ZSCAN IMAGE CENTER",
+                  "font": "Helvetica-Bold",
+                  "size": 24,
+                  "align": "center",
+                  "color": "#000000"
+                },
+                {
+                  "type": "text",
+                  "content": "SIMPLE, FAST, EFFICIENT",
+                  "font": "Helvetica-Bold",
+                  "size": 16,
+                  "align": "center",
+                  "color": "#666666"
+                }
+              ]
+            }
+          ]
+        },
+        {
+            "type": "row",
+            "childs": [
+              {
+                "type": "column",
+                "childs": [
+                  {
+                    "type": "text",
+                    "content": "ID do paciente: 10",
+                    "font": "Helvetica",
+                    "size": 12,
+                    "align": "left",
+                    "color": "#000000"
+                  }
+                ]
+              },
+              {
+                "type": "column",
+                "childs": [
+                  {
+                    "type": "text",
+                    "content": "Laudo Nº: 80",
+                    "font": "Helvetica",
+                    "size": 12,
+                    "align": "right",
+                    "color": "#000000"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "column",
+            "childs": [
+              {
+                "type": "text",
+                "content": "Paciente: Teste Wes",
+                "font": "Helvetica-Bold",
+                "size": 12,
+                "align": "left",
+                "color": "#000000"
+              },
+              {
+                "type": "text",
+                "content": "Dispositivo: Marcao Cameras | Model X | 328888",
+                "font": "Helvetica",
+                "size": 12,
+                "align": "left",
+                "color": "#000000"
+              },
+              {
+                "type": "text",
+                "content": "Médico Solicitante: Colaborador Teste 2312",
+                "font": "Helvetica",
+                "size": 12,
+                "align": "left",
+                "color": "#000000"
+              },
+              {
+                "type": "text",
+                "content": "Médico Examinador: Examinador Teste",
+                "font": "Helvetica",
+                "size": 12,
+                "align": "left",
+                "color": "#000000"
+              },
+              {
+                "type": "text",
+                "content": "Técnico: Tecnician Testador",
+                "font": "Helvetica",
+                "size": 12,
+                "align": "left",
+                "color": "#000000"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "content": "_________________________________________________________________",
+            "font": "Helvetica",
+            "size": 12,
+            "align": "left",
+            "color": "#000000"
+          }
+      ]
+    },
+    "content": [
+      {
+        "type": "text",
+        "content": "Exame Teste",
+        "font": "Helvetica-Bold",
+        "size": 20,
+        "align": "center",
+        "color": "#000000"
+      },
+      {
+        "type": "column",
+        "childs": [
+          {
+            "type": "text",
+            "content": "The camp",
+            "font": "Helvetica-Bold",
+            "size": 14,
+            "align": "left",
+            "color": "#000000"
+          },
+          {
+            "type": "text",
+            "content": "Teste",
+            "font": "Helvetica",
+            "size": 12,
+            "align": "left",
+            "color": "#000000"
+          },
+          {
+            "type": "text",
+            "content": "The camp",
+            "font": "Helvetica-Bold",
+            "size": 14,
+            "align": "left",
+            "color": "#000000"
+          },
+          {
+            "type": "text",
+            "content": "The camp",
+            "font": "Helvetica-Bold",
+            "size": 14,
+            "align": "left",
+            "color": "#000000"
+          },
+          {
+            "type": "text",
+            "content": "Tetste",
+            "font": "Helvetica",
+            "size": 12,
+            "align": "left",
+            "color": "#000000"
+          },
+          {
+            "type": "text",
+            "content": "□ The camp",
+            "font": "Helvetica",
+            "size": 12,
+            "align": "left",
+            "color": "#000000"
+          },
+          {
+            "type": "text",
+            "content": "The camp",
+            "font": "Helvetica",
+            "size": 12,
+            "align": "left",
+            "color": "#000000"
+          }
+        ]
+      }
+    ],
+    "footer": {
+      "content": [
+        {
+          "type": "row",
+          "childs": [
+            {
+              "type": "text",
+              "content": "Data do exame: 21/01/2025",
+              "font": "Helvetica",
+              "size": 10,
+              "align": "left",
+              "color": "#666666"
+            },
+            {
+              "type": "text",
+              "content": "ZSCAN IMAGE CENTER",
+              "font": "Helvetica",
+              "size": 10,
+              "align": "center",
+              "color": "#666666"
+            },
+            {
+              "type": "text",
+              "content": "Página 1 de 1",
+              "font": "Helvetica",
+              "size": 10,
+              "align": "right",
+              "color": "#666666"
+            }
+          ]
+        }
+      ]
+    }
+  }

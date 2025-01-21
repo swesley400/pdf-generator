@@ -1,0 +1,360 @@
+{
+  "margins": {
+    "left": 1,
+    "right": 1,
+    "bottom": 1,
+    "top": 1
+  },
+  "orientation": "portrait",
+  "page": "a4",
+  "header": {
+    "content": [
+      {
+        "type": "row",
+        "childs": [
+          {
+            "type": "image",
+            "content": "https://img.freepik.com/vetores-gratis/logotipo-elegante-dourado-com-moldura_52683-13462.jpg",
+            "width": 80,
+            "height": 80,
+            "align": "left"
+          },
+          {
+            "type": "column",
+            "childs": [
+              {
+                "type": "text",
+                "content": "RELATÓRIO DE PRODUTOS",
+                "font": "Helvetica-Bold",
+                "size": 24,
+                "align": "center",
+                "color": "#2c3e50"
+              },
+              {
+                "type": "text",
+                "content": "Inventário - Janeiro 2025",
+                "font": "Helvetica",
+                "size": 16,
+                "align": "center",
+                "color": "#7f8c8d"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "content": [
+    {
+      "type": "text",
+      "content": "Lista de Produtos em Estoque",
+      "font": "Helvetica-Bold",
+      "size": 18,
+      "align": "left",
+      "color": "#2c3e50"
+    },
+    {
+      "type": "text",
+      "content": "Atualizado em: 21/01/2025",
+      "font": "Helvetica",
+      "size": 12,
+      "align": "left",
+      "color": "#7f8c8d"
+    },
+    {
+      "type": "column",
+      "childs": [
+        {
+          "type": "row",
+          "childs": [
+            {
+              "type": "text",
+              "content": "Código",
+              "font": "Helvetica-Bold",
+              "size": 12,
+              "align": "left",
+              "color": "#ffffff",
+              "backgroundColor": "#2c3e50"
+            },
+            {
+              "type": "text",
+              "content": "Produto",
+              "font": "Helvetica-Bold",
+              "size": 12,
+              "align": "left",
+              "color": "#ffffff",
+              "backgroundColor": "#2c3e50"
+            },
+            {
+              "type": "text",
+              "content": "Quantidade",
+              "font": "Helvetica-Bold",
+              "size": 12,
+              "align": "center",
+              "color": "#ffffff",
+              "backgroundColor": "#2c3e50"
+            },
+            {
+              "type": "text",
+              "content": "Preço Unit.",
+              "font": "Helvetica-Bold",
+              "size": 12,
+              "align": "right",
+              "color": "#ffffff",
+              "backgroundColor": "#2c3e50"
+            },
+            {
+              "type": "text",
+              "content": "Total",
+              "font": "Helvetica-Bold",
+              "size": 12,
+              "align": "right",
+              "color": "#ffffff",
+              "backgroundColor": "#2c3e50"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "column",
+      "childs": [
+        {
+          "type": "row",
+          "childs": [
+            {
+              "type": "text",
+              "content": "001",
+              "font": "Helvetica",
+              "size": 12,
+              "align": "left",
+              "color": "#2c3e50",
+              "backgroundColor": "#ecf0f1"
+            },
+            {
+              "type": "text",
+              "content": "Notebook Dell XPS",
+              "font": "Helvetica",
+              "size": 12,
+              "align": "left",
+              "color": "#2c3e50",
+              "backgroundColor": "#ecf0f1"
+            },
+            {
+              "type": "text",
+              "content": "15",
+              "font": "Helvetica",
+              "size": 12,
+              "align": "center",
+              "color": "#2c3e50",
+              "backgroundColor": "#ecf0f1"
+            },
+            {
+              "type": "text",
+              "content": "R$ 8.999,00",
+              "font": "Helvetica",
+              "size": 12,
+              "align": "right",
+              "color": "#2c3e50",
+              "backgroundColor": "#ecf0f1"
+            },
+            {
+              "type": "text",
+              "content": "R$ 134.985,00",
+              "font": "Helvetica",
+              "size": 12,
+              "align": "right",
+              "color": "#2c3e50",
+              "backgroundColor": "#ecf0f1"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "childs": [
+            {
+              "type": "text",
+              "content": "002",
+              "font": "Helvetica",
+              "size": 12,
+              "align": "left"
+            },
+            {
+              "type": "text",
+              "content": "Monitor 27\" 4K",
+              "font": "Helvetica",
+              "size": 12,
+              "align": "left"
+            },
+            {
+              "type": "text",
+              "content": "30",
+              "font": "Helvetica",
+              "size": 12,
+              "align": "center"
+            },
+            {
+              "type": "text",
+              "content": "R$ 2.499,00",
+              "font": "Helvetica",
+              "size": 12,
+              "align": "right"
+            },
+            {
+              "type": "text",
+              "content": "R$ 74.970,00",
+              "font": "Helvetica",
+              "size": 12,
+              "align": "right"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "childs": [
+            {
+              "type": "text",
+              "content": "003",
+              "font": "Helvetica",
+              "size": 12,
+              "align": "left",
+              "color": "#2c3e50",
+              "backgroundColor": "#ecf0f1"
+            },
+            {
+              "type": "text",
+              "content": "Mouse Wireless",
+              "font": "Helvetica",
+              "size": 12,
+              "align": "left",
+              "color": "#2c3e50",
+              "backgroundColor": "#ecf0f1"
+            },
+            {
+              "type": "text",
+              "content": "50",
+              "font": "Helvetica",
+              "size": 12,
+              "align": "center",
+              "color": "#2c3e50",
+              "backgroundColor": "#ecf0f1"
+            },
+            {
+              "type": "text",
+              "content": "R$ 199,00",
+              "font": "Helvetica",
+              "size": 12,
+              "align": "right",
+              "color": "#2c3e50",
+              "backgroundColor": "#ecf0f1"
+            },
+            {
+              "type": "text",
+              "content": "R$ 9.950,00",
+              "font": "Helvetica",
+              "size": 12,
+              "align": "right",
+              "color": "#2c3e50",
+              "backgroundColor": "#ecf0f1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "row",
+      "childs": [
+        {
+          "type": "text",
+          "content": "",
+          "font": "Helvetica-Bold",
+          "size": 12,
+          "align": "left"
+        },
+        {
+          "type": "text",
+          "content": "",
+          "font": "Helvetica-Bold",
+          "size": 12,
+          "align": "left"
+        },
+        {
+          "type": "text",
+          "content": "95",
+          "font": "Helvetica-Bold",
+          "size": 12,
+          "align": "center",
+          "color": "#ffffff",
+          "backgroundColor": "#2c3e50"
+        },
+        {
+          "type": "text",
+          "content": "Total:",
+          "font": "Helvetica-Bold",
+          "size": 12,
+          "align": "right",
+          "color": "#ffffff",
+          "backgroundColor": "#2c3e50"
+        },
+        {
+          "type": "text",
+          "content": "R$ 219.905,00",
+          "font": "Helvetica-Bold",
+          "size": 12,
+          "align": "right",
+          "color": "#ffffff",
+          "backgroundColor": "#2c3e50"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": "Observações:",
+      "font": "Helvetica-Bold",
+      "size": 14,
+      "align": "left",
+      "color": "#2c3e50"
+    },
+    {
+      "type": "text",
+      "content": "1. Produtos com estoque abaixo do mínimo estão destacados em vermelho\n2. Preços sujeitos a alteração sem aviso prévio\n3. Consulte disponibilidade para grandes quantidades",
+      "font": "Helvetica",
+      "size": 12,
+      "align": "left",
+      "color": "#34495e"
+    }
+  ],
+  "footer": {
+    "content": [
+      {
+        "type": "row",
+        "childs": [
+          {
+            "type": "text",
+            "content": "Gerado em: 21/01/2025",
+            "font": "Helvetica",
+            "size": 10,
+            "align": "left",
+            "color": "#7f8c8d"
+          },
+          {
+            "type": "text",
+            "content": "Relatório de Produtos",
+            "font": "Helvetica",
+            "size": 10,
+            "align": "center",
+            "color": "#7f8c8d"
+          },
+          {
+            "type": "text",
+            "content": "Página {page} de {pages}",
+            "font": "Helvetica",
+            "size": 10,
+            "align": "right",
+            "color": "#7f8c8d"
+          }
+        ]
+      }
+    ]
+  }
+}
